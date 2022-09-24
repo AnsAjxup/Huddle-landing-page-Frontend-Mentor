@@ -1,0 +1,22 @@
+.header-huddle{
+    padding: 0 5rem;
+}
+.section-description{
+    padding: 0 5rem;
+}
+.section-info{
+    padding: 4rem 4rem;
+}
+.article-info{
+    padding: 4rem 3rem;
+    margin: 0 6rem;
+}
+.img-info{
+    width: 70%;
+}
+.btn-get-started--size{
+    width: 22rem;
+}
+.footer-huddle{
+    padding: 12rem 4rem 4rem;
+}

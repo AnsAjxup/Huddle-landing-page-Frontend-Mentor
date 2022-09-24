@@ -1,0 +1,110 @@
+.section-main{
+    padding-top: 2rem;
+}
+.header-huddle{
+    padding: 0 7rem;
+}
+.header-huddle__logo{
+    height: 3rem;
+}
+.header-huddle__button{
+    width: 17rem;
+    height: 4rem;
+}
+.section-description{
+    padding: 0 7rem 5rem;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container-description{
+    width: 40%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 8rem;
+}
+.title-description{
+    font-size: 2.8rem;
+}
+.img-mockup{
+    width: 55%;
+    margin: 0;
+}
+.section-info{
+    padding: 4rem 7rem;
+}
+.article-info{
+    padding: 4rem;
+    margin: 0;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container-info{
+    width: 42%;
+    text-align: left;
+    margin: 0 0 0 6rem;
+} 
+.title-info{
+    font-size: 2.4rem;
+}
+.img-info{
+    width: 35%;
+}
+.article-info--reverse{
+    flex-direction: row-reverse;
+}
+.container-info--reverse{
+    margin: 0;
+}
+.img-info--reverse{
+    margin: 0 0 0 6rem;
+}
+.card-get-started{
+    width: 45%;
+    padding: 4rem 0;
+}
+.title-card{
+    font-size: 2.4rem;
+}
+.btn-get-started--size{
+    width: 50%;
+    height: 5rem;
+    font-size: 1.6rem;
+}
+.footer-huddle{
+    padding: 12rem 7rem 4rem;
+}
+.logo-footer{
+    width: 20rem;
+}
+.container-footer{
+    display: flex;
+    gap: 11rem;
+}
+.container-contacs{
+    width: 42rem;
+}
+.item-contac a{
+    width: 38rem;
+}
+.img-item-location{
+    bottom: 4rem;
+}
+.container-about-us{
+    margin-top: 0;
+    width: 28rem;
+    display: flex;
+    justify-content: space-between;
+}
+.container-social-media{
+    margin-top: 0;
+    width: 28rem;
+    height: 18rem;
+}
+.social-media{
+    justify-content: flex-start;
+}
+.copyright{
+    text-align: left;
+}
